@@ -80,4 +80,10 @@
   }
 }
 
+.wrapper-cutter {
+    height: 80%; /*Pick it whatever you want*/
+    overflow: hidden;
+} 
+
+
 
